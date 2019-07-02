@@ -25,6 +25,7 @@ export default class App extends Component<Props> {
         <Text style={styles.instructions}>Hii Rahikumar Bhagat,Good Morning!!!</Text>
         <Text style={styles.instructions}>Hii Rahikumar Bhagat,Good Afternoon!!!</Text>
         <Text style={styles.instructions}>Hii Rahikumar Bhagat,Good Evening</Text>
+        <Text style={styles.instructions}>Hii Rahikumar Bhagat,Good Night</Text>
         <Text style={styles.instructions}>{instructions}</Text>
       </View>
     );
